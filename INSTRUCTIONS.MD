@@ -99,7 +99,7 @@
 
 ### Step 1: Follow our Cybrance MongoDB Guide
 
-- Go to [Cybrance MongoDB Guide](https://Cybrance.com/blog) and follow the prompts to set up a new cluster.
+- Go to [Cybrance MongoDB Guide](https://www.mongodb.com/resources/products/fundamentals/clusters) and follow the prompts to set up a new cluster.
 
 ### Step 2: Update Your .env file
 
