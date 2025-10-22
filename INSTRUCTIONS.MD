@@ -6,7 +6,7 @@
 
 ### 1. Log into the Cybrance Panel and _Head over to the Startup page_
 
-- Go to [Cybrance Panel](https://panel.Cybrance.com/) and log into your account.
+- Go to [Cybrance Panel](https://panel.Cybrance.nl/) and log into your account.
 
 ### 2. Clone the GitHub Repository
 
