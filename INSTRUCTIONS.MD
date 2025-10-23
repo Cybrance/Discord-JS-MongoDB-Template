@@ -95,6 +95,7 @@
    <img src="images/uninstall.png" alt="uninstall-Image" width="380" height="100">
 </a>
 
+Once the Git settings are applied, you will need to reinstall the server.
 ## MongoDB Setup Instructions
 
 ### Step 1: Follow our Cybrance MongoDB Guide
