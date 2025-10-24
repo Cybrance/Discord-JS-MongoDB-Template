@@ -77,7 +77,7 @@
   <img src="images/username.png" alt="username-Image" width="380" height="100">
   </a>
 
-- **GIT ACCESS TOKEN** `(Not needed)`:
+- **GIT ACCESS TOKEN** `(Needed)`:
   - Enter your GitHub Personal Access Token if you are using it out of a own private repository.
   - **Description**: Password to use with Git but with a private repository. It's best practice to use a Personal Access Token. [Create a GitHub Personal Access Token](https://github.com/settings/tokens).
 
