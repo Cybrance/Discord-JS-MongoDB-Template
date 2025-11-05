@@ -1,6 +1,6 @@
 # Discord JS + MongoDB Template
 
-Minimal Discord bot template using discord.js and Mongoose. Includes environment-driven configuration and instructions for running locally or deploying via the Cybrance panel.
+Minimal Discord bot template using discord.js and Mongoose. Includes environment-driven configuration and instructions for running locally or deploying via the Cytric panel.
 
 ## Features
 
@@ -52,4 +52,4 @@ Minimal Discord bot template using discord.js and Mongoose. Includes environment
 
 ## Support
 
-- For help setting up with Cybrance, see INSTRUCTIONS.MD or contact support@cybrance.nl.
+- For help setting up with Cytric, see INSTRUCTIONS.MD or contact support@cytric.nl.
